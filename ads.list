@@ -5069,9 +5069,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 app-adforce.jp
 0.0.0.0 analytics.app-adforce.jp
 
-# [app-measurement.com]
-0.0.0.0 app-measurement.com
-
 # [app.link]
 0.0.0.0 app.link
 0.0.0.0 mangarock.app.link
@@ -6741,14 +6738,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 crasheye.cn
 0.0.0.0 rp.crasheye.cn
 
-# [crashlytics.com]
-0.0.0.0 api.crashlytics.com
-0.0.0.0 cm.crashlytics.com
-0.0.0.0 e.crashlytics.com
-0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 reports.crashlytics.com
-0.0.0.0 settings.crashlytics.com
-
 # [crazyegg.com]
 0.0.0.0 sample-api-v2.crazyegg.com
 0.0.0.0 script.crazyegg.com
@@ -8086,9 +8075,6 @@ ff02::3 ip6-allhosts
 # [fingersoft.net]
 0.0.0.0 ads.fingersoft.net
 0.0.0.0 ads3.fingersoft.net
-
-# [firebaseio.com]
-0.0.0.0 famobi-01.firebaseio.com
 
 # [firstimpression.io]
 0.0.0.0 firstimpression.io
